@@ -17,8 +17,8 @@
 
 // ---------- 第 2 步：填写你自己的 Wi-Fi 信息 ----------
 // ★ 必须修改！把下面两个值改成你家里/办公室路由器的 Wi-Fi 名称和密码 ★
-const char* ssid = "REPLACE_WITH_YOUR_SSID";        // 你的 Wi-Fi 名称
-const char* password = "REPLACE_WITH_YOUR_PASSWORD"; // 你的 Wi-Fi 密码
+const char* ssid = "HUAWEI-ETP89N_HiLink";        // 你的 Wi-Fi 名称
+const char* password = "Aa123456"; // 你的 Wi-Fi 密码
 
 // ---------- 第 3 步：硬件接线定义 ----------
 // DHTPIN 是 DHT11 传感器接的那根 GPIO 引脚
